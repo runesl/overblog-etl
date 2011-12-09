@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/trifork/projects/!svn/ver/23204/overblog-etl/src
+END
+PgDumpLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/trifork/projects/!svn/ver/22998/overblog-etl/src/PgDumpLoader.java
+END
+RiakDumperNew.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/trifork/projects/!svn/ver/23204/overblog-etl/src/RiakDumperNew.java
+END
+FourHBlogStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/trifork/projects/!svn/ver/23204/overblog-etl/src/FourHBlogStats.java
+END
+AccessLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/trifork/projects/!svn/ver/23204/overblog-etl/src/AccessLine.java
+END
+AccessLogLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/trifork/projects/!svn/ver/23204/overblog-etl/src/AccessLogLoader.java
+END
+RiakDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/trifork/projects/!svn/ver/23204/overblog-etl/src/RiakDumper.java
+END

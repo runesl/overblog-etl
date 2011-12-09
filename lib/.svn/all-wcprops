@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/trifork/projects/!svn/ver/23205/overblog-etl/lib
+END
+httpcore-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/trifork/projects/!svn/ver/23205/overblog-etl/lib/httpcore-4.1.2.jar
+END
+log4j-log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/trifork/projects/!svn/ver/23205/overblog-etl/lib/log4j-log4j.jar
+END
+jackson-core-asl-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/trifork/projects/!svn/ver/23205/overblog-etl/lib/jackson-core-asl-1.7.5.jar
+END
+jackson-mapper-asl-1.7.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/trifork/projects/!svn/ver/23205/overblog-etl/lib/jackson-mapper-asl-1.7.5.jar
+END
+junit-junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/trifork/projects/!svn/ver/23205/overblog-etl/lib/junit-junit.jar
+END
+httpclient-4.1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/trifork/projects/!svn/ver/23205/overblog-etl/lib/httpclient-4.1.2.jar
+END
+riak-client-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/trifork/projects/!svn/ver/23205/overblog-etl/lib/riak-client-1.0.2.jar
+END

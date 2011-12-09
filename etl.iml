@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/asm-asm-tree.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/asm-asm.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/com.google.guava-guava.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/com.google.protobuf-protobuf-java.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/com.jcraft-jsch.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/com.jolbox-bonecp.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/com.oracle-ojdbc6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/com.svnkit-svnkit-javahl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/commons-codec-commons-codec.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/commons-httpclient-commons-httpclient.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/commons-io-commons-io.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/commons-lang-commons-lang.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/commons-logging-commons-logging.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/log4j-log4j.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/mysql-mysql-connector-java.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/net.sourceforge.cobertura-cobertura.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/one-jar-one-jar-ant-task.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.apache.ant-ant-launcher.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.apache.ant-ant.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.json-json.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.programmerplanet.ant-jmeter.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.slf4j-slf4j-api.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.tigris.subclipse-svnant.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.tigris.subclipse-svnclientadapter.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.tmatesoft.svnkit-svnkit.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/oro-oro.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/trifork-recept-replikering-api.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/com.google.protobuf-protobuf-java-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/com.google.protobuf-protobuf-java-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/one-jar-one-jar-ant-task.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/org.programmerplanet.ant-jmeter.jar!/" />
+          <root url="jar://$MODULE_DIR$/../recept-replikering/lib/build/trifork-recept-replikering-api.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/riak-client-1.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/httpclient-4.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/httpcore-4.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/junit-junit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jackson-mapper-asl-1.7.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jackson-core-asl-1.7.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
